@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hologram header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=DevBrallam&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=DevEstiven&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" />
 
 ### ⚡ Full-Stack Developer | MERN | Python | UI/UX ⚡
 
