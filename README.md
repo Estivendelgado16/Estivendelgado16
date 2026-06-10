@@ -69,10 +69,10 @@
 
 | Proyecto | Stack | Descripción |
 |:---------|:------|:------------|
-| [**Zyntra**](https://github.com/Estivendelgado16/Zyntra) | Python · ML · AI | Plataforma inteligente con analítica avanzada y modelos predictivos |
-| [**CityGo**](https://github.com/Estivendelgado16/CityGo) | TypeScript · React · Node.js | Plataforma de movilidad urbana con seguimiento en tiempo real |
-| [**adoptionPets**](https://github.com/Estivendelgado16/adoptionPets) | JavaScript · MERN | Sistema de adopción de mascotas con CRUD completo |
-| [**simuM6**](https://github.com/Estivendelgado16/simuM6) | Python | Simulación y modelado de datos para dashboards analíticos |
+| [**Zyntra**](https://github.com/Estivendelgado16/Zyntra) | Python · ML · AI | E-commerce price comparison, powered by AI scraping and multi-modal search |
+| [**CityGo**](https://github.com/Estivendelgado16/CityGo) | TypeScript · React · Node.js | AI-powered guide that transforms the way you discover Medellín |
+| [**Fatv**](https://github.com/Fundacion-Antivirus-para-la-Desercion/pagina_fatv) | TypeScript · React | initiative that works to reduce student dropout rates in Colombia |
+| [**Crudzaso**](https://github.com/Estivendelgado16/simuM6) | JavaScript · Express · supabase | A modern, full-stack task management platform |
 | [**CatalogoRod**](https://github.com/Estivendelgado16/CatalogoRod) | Full-Stack | Catálogo digital con interfaz dinámica y responsive |
 | [**proyectoToDo-mod2**](https://github.com/Estivendelgado16/proyectoToDo-mod2) | JavaScript | Gestor de tareas con persistencia en LocalStorage |
 
