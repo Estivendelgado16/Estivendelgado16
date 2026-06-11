@@ -73,7 +73,7 @@
 | [**CityGo**](https://github.com/Estivendelgado16/CityGo) | TypeScript · React · Node.js | AI-powered guide that transforms the way you discover Medellín |
 | [**Fatv**](https://github.com/Fundacion-Antivirus-para-la-Desercion/pagina_fatv) | TypeScript · React | initiative that works to reduce student dropout rates in Colombia |
 | [**Crudzaso**](https://github.com/Estivendelgado16/simuM6) | JavaScript · Express · supabase | A modern, full-stack task management platform |
-| [**CatalogoRod**](https://github.com/Estivendelgado16/CatalogoRod) | Full-Stack | Catálogo digital con interfaz dinámica y responsive |
+| [**RodaTech**](https://github.com/Estivendelgado16/RodaTech-Backend) | Python · FaztApi · LandChain | RodaTech is redefining how the automotive aftermarket buys bearings, seals, and repair kits |
 | [**proyectoToDo-mod2**](https://github.com/Estivendelgado16/proyectoToDo-mod2) | JavaScript | Gestor de tareas con persistencia en LocalStorage |
 
 </div>
