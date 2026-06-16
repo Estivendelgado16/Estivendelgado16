@@ -121,9 +121,9 @@ enfoque_actual:
 
 <div align="center">
 
-[![LinkedIn](https://shields.io)](https://linkedin.com/in/DevBrallam)
-[![GitHub](https://shields.io)](https://github.com/Estivendelgado16)
-[![Email](https://shields.io)](mailto:brallamdelgado351@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DevBrallam)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Estivendelgado16)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brallamdelgado351@gmail.com)
 
 </div>
 
