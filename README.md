@@ -35,7 +35,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Estivendelgado16/Estivendelgado16/main/profile-3d-contrib/profile-night-green.svg"
+      srcset="https://raw.githubusercontent.com/Estivendelgado16/Estivendelgado16/main/profile-3d-contrib/profile-night-orange.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
