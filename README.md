@@ -84,7 +84,7 @@
 <h2 align="center">🌐 Actividad Reciente</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Estivendelgado16&theme=tokyonight&hide_border=true&radius=16&area=true&custom_title=Ondas%20de%20Actividad" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Estivendelgado16&bg_color=0D1117&hide_border=true&radius=16&area=true&custom_title=Ondas%20de%20Actividad" width="95%" />
 </div>
 
 ---
