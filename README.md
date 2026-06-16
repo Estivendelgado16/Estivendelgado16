@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hologram header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:#008000,100:0072ff&height=220&section=header&text=DevEstiven&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4cbb17,100:0072ff&height=220&section=header&text=DevEstiven&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" />
 
 ### ⚡ Full-Stack Developer | MERN | Python | UI/UX ⚡
 
@@ -54,10 +54,13 @@
 <h2 align="center">📡 Dashboard de Control</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Estivendelgado16&show_icons=true&theme=radical&hide_border=true&count_private=true&border_radius=16&custom_title=Misi%C3%B3n%20Control" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Estivendelgado16&theme=radical&hide_border=true&border_radius=16" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Estivendelgado16&show_icons=true&hide_border=true&count_private=true&border_radius=16&bg_color=000000&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&custom_title=Misi%C3%B3n%20Control" width="49%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Estivendelgado16&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=39FF14&dates=AAAAAA&border=000000" width="49%" />
+
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estivendelgado16&layout=compact&theme=radical&hide_border=true&border_radius=16&langs_count=8" width="50%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estivendelgado16&layout=compact&hide_border=true&border_radius=16&langs_count=8&bg_color=000000&title_color=39FF14&text_color=FFFFFF" width="50%" />
 </div>
 
 ---
@@ -84,7 +87,7 @@
 <h2 align="center">🌐 Actividad Reciente</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Estivendelgado16&bg_color=0D1117&hide_border=true&radius=16&area=true&custom_title=Ondas%20de%20Actividad" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Estivendelgado16&bg_color=000000&color=39FF14&line=39FF14&point=00FF88&area=true&area_color=39FF14&hide_border=true&radius=16&custom_title=Ondas%20de%20Actividad" width="95%" />
 </div>
 
 ---
