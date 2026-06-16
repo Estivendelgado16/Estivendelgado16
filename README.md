@@ -135,7 +135,7 @@ enfoque_actual:
 <div align="center">
   
   <!-- Animated Visitor Counter -->
-  <img src="https://profile-counter.glitch.me/Estivendelgado16/count.svg" alt="Visitors" />
+<img src="https://komarev.com/ghpvc/?username=Estivendelgado16&style=flat-square&color=3fb950" />
   
   <br/>
   <sub>⚡ _Siempre construyendo, siempre aprendiendo_ ⚡</sub>
